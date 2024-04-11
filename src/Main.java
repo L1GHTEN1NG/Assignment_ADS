@@ -22,6 +22,7 @@ public class Main {
             System.out.print("Array is empty");
         }
 
+        assert array != null;
         int min = array[0];
 
         for (int i = 1; i < n; i++) {

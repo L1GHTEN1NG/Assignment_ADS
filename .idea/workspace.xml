@@ -42,7 +42,8 @@
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
     "Application.Main (4).executor": "Run",
-    "Application.Main.executor": "Debug",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -54,7 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/dimas/IdeaProjects/Assignment_ADS/Problem_8/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/dimas/IdeaProjects/Assignment_ADS/Defence/src/Main.java",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   },
@@ -72,14 +73,7 @@
       <recent name="C:\Users\dimas\IdeaProjects\Assignment_ADS\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problem_5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Problem_6" />
@@ -101,6 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problem_9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Assignment_ADS" />
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712870829563</updated>
       <workItem from="1712870830708" duration="2162000" />
+      <workItem from="1712894938427" duration="2199000" />
     </task>
     <task id="LOCAL-00001" summary="superman">
       <option name="closed" value="true" />
@@ -159,7 +161,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712893689121</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Black Panther">
+      <option name="closed" value="true" />
+      <created>1712893749116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712893749116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Black Panther">
+      <option name="closed" value="true" />
+      <created>1712893768164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712893768164</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Black Panther">
+      <option name="closed" value="true" />
+      <created>1712897139593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712897139593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +194,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="superman" />
     <MESSAGE value="Iron Man" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iron Man" />
+    <MESSAGE value="Black Panther" />
+    <option name="LAST_COMMIT_MESSAGE" value="Black Panther" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +214,21 @@
           <url>file://$PROJECT_DIR$/src/Problem_8/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Problem_9/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Defense/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Defence/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

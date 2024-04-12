@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -13,11 +14,11 @@ public class Main {
             array[i] = scanner.nextInt();
         }
 
-        int min = findMin(n, array);
+        int min = FindMin(n, array);
         System.out.println("Minimum element: " + min);
     }
 
-    public static int findMin(int n, int[] array) {
+    public static int FindMin(int n, int[] array) {
         if (n == 0 || array == null) {
             System.out.print("Array is empty");
         }

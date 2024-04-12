@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/src/Problem_2/Problem_2.iml" filepath="$PROJECT_DIR$/src/Problem_2/Problem_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Problem_3/Problem_3.iml" filepath="$PROJECT_DIR$/src/Problem_3/Problem_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Problem_4/Problem_4.iml" filepath="$PROJECT_DIR$/src/Problem_4/Problem_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Problem_5/Problem_5.iml" filepath="$PROJECT_DIR$/src/Problem_5/Problem_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Problem_6/Problem_6.iml" filepath="$PROJECT_DIR$/src/Problem_6/Problem_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Problem_7/Problem_7.iml" filepath="$PROJECT_DIR$/src/Problem_7/Problem_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Problem_8/Problem_8.iml" filepath="$PROJECT_DIR$/src/Problem_8/Problem_8.iml" />
     </modules>
   </component>
 </project>
